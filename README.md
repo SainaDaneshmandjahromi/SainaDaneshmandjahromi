@@ -8,9 +8,11 @@ I'm a compiler enthusiast passionate about functional programming and language d
 💻 Skills: C++, compiler design, LLVM, algorithms, Haskell
 
 🌐 Projects:  
-- [EvaLLVM](https://github.com/SainaDaneshmandjahromi/EvaLLVM)
+- [EvaLLVM](https://github.com/SainaDaneshmandjahromi/EvaLLVM) – a toy LLVM compiler  
+- [SainaSH](https://github.com/SainaDaneshmandjahromi/SainaSH) – a lightweight Python shell with background process management
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sainadaneshmandjahromi/)
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/saina-daneshmand-4b473b210/)
 
 <!--
 **SainaDaneshmandjahromi/SainaDaneshmandjahromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
