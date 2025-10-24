@@ -4,7 +4,7 @@ I'm a compiler enthusiast passionate about functional programming and language d
 
 🎓 MSc in Computer Science, University of Calgary  
 ⚙️ Currently working on compiler development using LLVM  
-📚 Research interests: compiler development, type inference, programming language design, type theory, and category theory
+📚 Research interests: compiler development, type inference, programming language design, type theory, and category theory  
 💻 Skills: C++, compiler design, LLVM, algorithms, Haskell
 
 🌐 Projects:  
