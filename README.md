@@ -1,4 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Saina
+
+I'm a compiler enthusiast passionate about functional programming and language design.
+
+🎓 MSc in Computer Science, University of Calgary  
+⚙️ Currently working on compiler development using LLVM  
+📚 Research interests: compiler development, type inference, programming language design, type theory, and category theory
+💻 Skills: C++, compiler design, LLVM, algorithms, Haskell
+
+🌐 Projects:  
+- [EvaLLVM](https://github.com/SainaDaneshmandjahromi/EvaLLVM)
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sainadaneshmandjahromi/)
 
 <!--
 **SainaDaneshmandjahromi/SainaDaneshmandjahromi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
